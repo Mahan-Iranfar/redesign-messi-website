@@ -1,0 +1,122 @@
+[
+  {
+    "id": "event-05",
+    "date": "2004-10-16",
+    "year": "2004",
+    "chapter": "Barcelona",
+    "title": "The first official step.",
+    "description": "His competitive Barcelona debut came against Espanyol on 16 October 2004.",
+    "sourceUrl": "https://www.fcbarcelona.com/en/ficha/2214377/leo-messi",
+    "sourceName": "FC Barcelona: Leo Messi",
+    "verifiedOn": "2026-10-31",
+    "image": null
+  },
+  {
+    "id": "event-10",
+    "date": "2009",
+    "year": "2009",
+    "chapter": "Barcelona",
+    "title": "A season without precedent.",
+    "description": "Barcelona collected six trophies in 2009.",
+    "sourceUrl": "https://www.fcbarcelona.com/en/ficha/2214377/leo-messi",
+    "sourceName": "FC Barcelona: Leo Messi",
+    "verifiedOn": "2026-10-31",
+    "image": null
+  },
+  {
+    "id": "event-13",
+    "date": "2012",
+    "year": "2012",
+    "chapter": "Barcelona",
+    "title": "Ninety-one.",
+    "description": "Messi scored 91 goals for club and country in the 2012 calendar year.",
+    "sourceUrl": "https://www.uefa.com/uefachampionsleague/news/025a-0ea88f68dbf8-ecb0e28b1eca-1000--messi-magic-wrapped-up-in-facts-and-figures/",
+    "sourceName": "UEFA: Messi magic in facts and figures",
+    "verifiedOn": "2026-10-31",
+    "image": null
+  },
+  {
+    "id": "event-16",
+    "date": "2021-07-10",
+    "year": "2021",
+    "chapter": "Argentina",
+    "title": "The wait ends.",
+    "description": "Argentina beat Brazil 1–0 at the Maracanã to win the Copa América.",
+    "sourceUrl": "https://copaamerica.com/en/news/copa-america-2021-argentina-champions-after-28-years",
+    "sourceName": "CONMEBOL: 2021 champions",
+    "verifiedOn": "2026-10-31",
+    "image": null
+  },
+  {
+    "id": "event-17",
+    "date": "2021",
+    "year": "2021",
+    "chapter": "Barcelona",
+    "title": "An era closes.",
+    "description": "Messi departed Barcelona after a senior career of 778 official appearances, 672 goals and 35 major trophies.",
+    "sourceUrl": "https://www.fcbarcelona.com/en/ficha/2214377/leo-messi",
+    "sourceName": "FC Barcelona: Leo Messi",
+    "verifiedOn": "2026-10-31",
+    "image": null
+  },
+  {
+    "id": "event-19",
+    "date": "2022-12-18",
+    "year": "2022",
+    "chapter": "World Cup",
+    "title": "The dream, realized.",
+    "description": "Argentina defeated France on penalties after a 3–3 World Cup final. Messi scored twice during the match.",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/argentina-france-2022-final-greatest-games",
+    "sourceName": "FIFA: Argentina–France final",
+    "verifiedOn": "2026-10-31",
+    "image": null
+  },
+  {
+    "id": "event-20",
+    "date": "2023",
+    "year": "2023",
+    "chapter": "Later career",
+    "title": "A new shore.",
+    "description": "Messi joined Inter Miami in summer 2023 and helped the club win its first trophy, the Leagues Cup.",
+    "sourceUrl": "https://www.intermiamicf.com/news/inter-miami-cf-signs-leo-messi-to-contract-extension",
+    "sourceName": "Inter Miami: contract extension",
+    "verifiedOn": "2026-10-31",
+    "image": null
+  },
+  {
+    "id": "event-21",
+    "date": "2023",
+    "year": "2023",
+    "chapter": "Later career",
+    "title": "Eight Ballons d’Or.",
+    "description": "The 2023 award brought Messi’s Ballon d’Or total to eight.",
+    "sourceUrl": "https://www.intermiamicf.com/news/inter-miami-cf-signs-leo-messi-to-contract-extension",
+    "sourceName": "Inter Miami: contract extension",
+    "verifiedOn": "2026-10-31",
+    "image": null
+  },
+  {
+    "id": "event-24",
+    "date": "2025-10-23",
+    "year": "2025",
+    "chapter": "Later career",
+    "title": "The next chapter.",
+    "description": "Inter Miami announced a contract extension through the 2028 MLS season. Messi also won the 2025 MLS Golden Boot with 29 goals.",
+    "sourceUrl": "https://www.intermiamicf.com/news/inter-miami-cf-signs-leo-messi-to-contract-extension",
+    "sourceName": "Inter Miami: contract extension",
+    "verifiedOn": "2026-10-31",
+    "image": null
+  },
+  {
+    "id": "event-25",
+    "date": "2025-12-06",
+    "year": "2025",
+    "chapter": "Later career",
+    "title": "MLS Cup champion.",
+    "description": "Inter Miami defeated Vancouver 3–1 to win its first MLS Cup. Messi contributed two assists and won the final’s MVP award.",
+    "sourceUrl": "https://www.mlssoccer.com/news/inter-miami-cf-win-2025-mls-cup-presented-by-audi",
+    "sourceName": "MLS: 2025 MLS Cup",
+    "verifiedOn": "2026-10-31",
+    "image": null
+  }
+]
